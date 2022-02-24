@@ -1,0 +1,198 @@
+@import url("//cdn.web-fonts.ge/fonts/alk-sanet/css/alk-sanet.min.css");
+@-webkit-keyframes scaleUp {
+  0% {
+    -webkit-transform: scale(0);
+            transform: scale(0);
+  }
+  80% {
+    -webkit-transform: scale(1.1);
+            transform: scale(1.1);
+  }
+  100% {
+    -webkit-transform: scale(1);
+            transform: scale(1);
+  }
+}
+@keyframes scaleUp {
+  0% {
+    -webkit-transform: scale(0);
+            transform: scale(0);
+  }
+  80% {
+    -webkit-transform: scale(1.1);
+            transform: scale(1.1);
+  }
+  100% {
+    -webkit-transform: scale(1);
+            transform: scale(1);
+  }
+}
+
+@media screen and (max-width: 750px) {
+  #info {
+    font-size: 2rem;
+    left: 0px;
+    top: -16vh;
+    text-align: center;
+  }
+  #info p {
+    -webkit-transform: translate(0px, 0px);
+            transform: translate(0px, 0px);
+  }
+}
+
+* {
+  margin: 0%;
+  padding: 0%;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+html, body {
+  width: 100vw;
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: black;
+  overflow-x: hidden;
+  height: 200vh;
+}
+
+#body {
+  position: absolute;
+}
+
+#startCanvas {
+  position: fixed;
+  z-index: 1;
+  -webkit-transition: 2s;
+  transition: 2s;
+  left: 0vw;
+  top: 0vh;
+}
+
+header {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  position: fixed;
+  width: 100vw;
+}
+
+header h1 {
+  width: 100px;
+  color: white;
+  font-family: Verdana;
+  -webkit-transition: 2s;
+  transition: 2s;
+  margin: 30px;
+  margin-left: 50px;
+  font-size: 50px;
+  opacity: 0;
+  -webkit-animation-duration: 2s;
+          animation-duration: 2s;
+}
+
+header button {
+  width: 50px;
+  height: 50px;
+  margin: 30px;
+  color: transparent;
+  background-color: transparent;
+  border-color: transparent;
+}
+
+header button div {
+  width: 100%;
+  height: 2px;
+  background-color: white;
+  position: relative;
+}
+
+header button #first {
+  top: -40%;
+}
+
+header button #second {
+  top: 0%;
+}
+
+header button #third {
+  top: 40%;
+}
+
+/* width */
+::-webkit-scrollbar {
+  width: 10px;
+  border: none;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  border-radius: 10px;
+  border: none;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: white;
+  border-radius: 10px;
+  border: none;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #ffffff;
+  border: none;
+}
+
+section {
+  position: absolute;
+  width: 100vw;
+  height: 100vh;
+  top: 0%;
+  z-index: -1;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  opacity: 1;
+}
+
+section h1 {
+  position: relative;
+  color: white;
+  font-family: Verdana;
+  width: 500px;
+  font-size: 3rem;
+  left: -17%;
+  -webkit-transform: translate(0, 0px);
+          transform: translate(0, 0px);
+}
+
+section h1 p {
+  color: #e7b100;
+  font-size: 20px;
+  -webkit-transform: translate(-15px, 0px);
+          transform: translate(-15px, 0px);
+}
+
+#canvas1 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  z-index: -2;
+}
+/*# sourceMappingURL=style.css.map */
