@@ -1,7 +1,7 @@
 <h1 align="center">Hello, my name is Tengo Lomidze</h1>
 <h3 align="center">My name is Tengo Lomidze. I am 15 years old web developer. I have been learning web developing for 2 years.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vindextos" alt="vindextos" /></a> </p>
+
 
 
 <h3 align="left">My skills: </h3>
@@ -41,3 +41,6 @@
 - 🔭 I’m currently working on Nautillus
 - 🌱 I’m currently learning django
 - 📫 How to reach me **tengolomidzedev@gmail.com**
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tengolomidze" /></a> </p>
