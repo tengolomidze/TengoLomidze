@@ -1,6 +1,6 @@
-## Hello there 👋
+<h1 align="center">Hello, my name is Tengo Lomidze</h1>
+<h3 align="center">My name is Tengo Lomidze. I am 15 years old web developer. I have been learning web developing for 2 years.</h3>
 
-My name is Tengo Lomidze. I am 15 years old web developer. I have been learning web developing for 2 years. 
 
 <h3 align="left">My skills: </h3>
 <p align="left">
