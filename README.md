@@ -2,7 +2,8 @@
 
 My name is Tengo Lomidze. I am 15 years old web developer. I have been learning web developing for 2 years. 
 
-Skills: JavaScript, TypeScript, React, C#, Python, Django, Vite, Git, Tailwindcss, HTML, CSS, SCSS
+Languages and Tools:
+css3 firebase git html5 javascript mongodb nodejs photoshop react sass tailwind typescript
 
 🔭 I’m currently working on Nautillus
 🌱 I’m currently learning django
