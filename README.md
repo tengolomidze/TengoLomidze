@@ -38,7 +38,11 @@
   
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
-  </a> 
+  </a>
+  <a href="https://www.blend.com" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/1200px-Blender_logo_no_text.svg.png" alt="blender" width="40" height="40"/> 
+  </a>
+  
 </p>
 
 - 🔭 I’m currently working on Nautillus
