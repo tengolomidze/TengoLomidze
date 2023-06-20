@@ -47,7 +47,7 @@
 
 - 🔭 I’m currently working on Nautillus
 - 🌱 I’m currently learning django
-- 📫 How to reach me **tengolomidzedev@gmail.com**    **lomidzetengo5@gmail.com**
+- 📫 How to reach me **lomidzetengo5@gmail.com** **tengolomidzedev@gmail.com**    
 
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tengolomidze" /></a> </p>
