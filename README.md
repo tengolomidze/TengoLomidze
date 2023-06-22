@@ -1,5 +1,6 @@
 <h1 align="center">Hello, my name is Tengo Lomidze</h1>
-<h3 align="center">I am 15 years old self-taught web developer. I have been learning web development for 2 years.</h3>
+<h3 align="center">I am 15 years old self-taught web developer.</h3>
+<h3 align="center">My protfolio </h3> https://lomidzetengo.netlify.app/
 
 
 
