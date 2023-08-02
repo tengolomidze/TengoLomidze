@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hello, my name is Tengo Lomidze<br><br>I'm a 15-year-old self-taught web developer who loves creating beautiful, responsive websites and games. Over the past two years, I've been dedicated to learning web development and honing my skills.<br><br>I have a strong passion for combining creativity and problem-solving in my work. I strive to stay updated with the latest industry trends and technologies to deliver seamless user experiences. My goal is to bring ideas to life and make a lasting impact through my projects.<br><br>I have a keen eye for detail, work well in collaborative environments, and maintain a strong work ethic. I embrace challenges as opportunities for growth and innovation.<br><br>I'm open to exciting projects and collaborations that allow me to apply my expertise and expand my horizons.
 
-portfolio: https://lomidzetengo.netlify.app/
+portfolio: https://tengolomidze.netlify.app/
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/tengo.lomidze.98) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lomidze_tengo_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tengo-lomidze-261195232) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@tengolomidze)  
