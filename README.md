@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, my name is Tengo Lomidze<br><br>Web developer who loves creating beautiful, responsive websites and games. Over the past two years, I've been dedicated to learning web development and honing my skills.<br><br>I have a strong passion for combining creativity and problem-solving in my work. I strive to stay updated with the latest industry trends and technologies to deliver seamless user experiences. My goal is to bring ideas to life and make a lasting impact through my projects.<br><br>I have a keen eye for detail, work well in collaborative environments, and maintain a strong work ethic. I embrace challenges as opportunities for growth and innovation.<br><br>I'm open to exciting projects and collaborations that allow me to apply my expertise and expand my horizons.
+I'm a programmer and university student who just likes building cool stuff. I work on a bit of everything - from front-end web development to scripting games in Roblox and Unity. I've won coding competitions, worked as a hired scripter, and I'm also into cyber security.
 
 portfolio: https://tengolomidze.netlify.app/
 
