@@ -4,5 +4,3 @@
 <div style="display: flex">
     <img src="https://skillicons.dev/icons?i=ts,js,python,cs,cpp,php,react,nextjs,redux,nodejs,express,html,css,tailwindcss,mysql,postgres,docker,linux,figma,laravel,dotnet,git"/>
 </div>
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=tengolomidze&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
