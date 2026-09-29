@@ -1,4 +1,4 @@
-<h3>Full-Stack Developer and Computer Science student with a strong background in web development, cybersecurity, and game scripting.</h3>
+<h4>Full-Stack Developer and Computer Science student with a strong background in web development, cybersecurity, and game scripting.</h4>
 
 <h2> Skills </h2>
 <div style="display: flex">
